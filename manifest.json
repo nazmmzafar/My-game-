@@ -1,0 +1,15 @@
+{
+  "name": "My Castle Game",
+  "short_name": "CastleGame",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#87CEEB",
+  "theme_color": "#333",
+  "icons": [
+    {
+      "src": "castle.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
